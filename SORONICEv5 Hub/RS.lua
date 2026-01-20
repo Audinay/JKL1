@@ -7,13 +7,12 @@ local sirius = {
 	sirius = Instance.new("ScreenGui"),
 	DM1 = Instance.new("Frame"),
 	UICorner = Instance.new("UICorner"),
-	Button = Instance.new("TextButton"),
 	ImageLabel = Instance.new("ImageLabel"),
 	ImageLabel_2 = Instance.new("ImageLabel"),
 	klm1 = Instance.new("ImageLabel"),
 	ImageLabel_3 = Instance.new("ImageLabel"),
+	Button = Instance.new("TextButton"),
 	Button_2 = Instance.new("TextButton"),
-	Button_3 = Instance.new("TextButton"),
 	TextLabel = Instance.new("TextLabel"),
 	_1 = Instance.new("Frame"),
 	UICorner_2 = Instance.new("UICorner"),
@@ -37,7 +36,7 @@ local sirius = {
 	UICorner_10 = Instance.new("UICorner"),
 	ImageLabel_5 = Instance.new("ImageLabel"),
 	UICorner_11 = Instance.new("UICorner"),
-	Button_4 = Instance.new("TextButton"),
+	Button_3 = Instance.new("TextButton"),
 	UICorner_12 = Instance.new("UICorner"),
 	TextLabel_3 = Instance.new("TextLabel"),
 	_2 = Instance.new("Frame"),
@@ -62,7 +61,7 @@ local sirius = {
 	UICorner_21 = Instance.new("UICorner"),
 	ImageLabel_7 = Instance.new("ImageLabel"),
 	UICorner_22 = Instance.new("UICorner"),
-	Button_5 = Instance.new("TextButton"),
+	Button_4 = Instance.new("TextButton"),
 	UICorner_23 = Instance.new("UICorner"),
 	_3 = Instance.new("Frame"),
 	UICorner_24 = Instance.new("UICorner"),
@@ -86,7 +85,7 @@ local sirius = {
 	UICorner_32 = Instance.new("UICorner"),
 	ImageLabel_9 = Instance.new("ImageLabel"),
 	UICorner_33 = Instance.new("UICorner"),
-	Button_6 = Instance.new("TextButton"),
+	Button_5 = Instance.new("TextButton"),
 	UICorner_34 = Instance.new("UICorner"),
 	_4 = Instance.new("Frame"),
 	UICorner_35 = Instance.new("UICorner"),
@@ -168,38 +167,35 @@ local sirius = {
 	ToggleBtn_3 = Instance.new("TextButton"),
 	UICorner_71 = Instance.new("UICorner"),
 	TextLabel_8 = Instance.new("TextLabel"),
-	Frame_39 = Instance.new("Frame"),
-	UICorner_72 = Instance.new("UICorner"),
-	BOOX1_3 = Instance.new("TextBox"),
-	UICorner_73 = Instance.new("UICorner"),
 	_7 = Instance.new("Frame"),
-	UICorner_74 = Instance.new("UICorner"),
+	UICorner_72 = Instance.new("UICorner"),
+	Frame_39 = Instance.new("Frame"),
+	UICorner_73 = Instance.new("UICorner"),
 	Frame_40 = Instance.new("Frame"),
-	UICorner_75 = Instance.new("UICorner"),
-	Frame_41 = Instance.new("Frame"),
 	H1_7 = Instance.new("Frame"),
-	UICorner_76 = Instance.new("UICorner"),
+	UICorner_74 = Instance.new("UICorner"),
+	Frame_41 = Instance.new("Frame"),
+	UICorner_75 = Instance.new("UICorner"),
 	Frame_42 = Instance.new("Frame"),
+	UICorner_76 = Instance.new("UICorner"),
+	H2_7 = Instance.new("Frame"),
 	UICorner_77 = Instance.new("UICorner"),
 	Frame_43 = Instance.new("Frame"),
 	UICorner_78 = Instance.new("UICorner"),
-	H2_7 = Instance.new("Frame"),
-	UICorner_79 = Instance.new("UICorner"),
 	Frame_44 = Instance.new("Frame"),
-	UICorner_80 = Instance.new("UICorner"),
-	Frame_45 = Instance.new("Frame"),
-	UICorner_81 = Instance.new("UICorner"),
+	UICorner_79 = Instance.new("UICorner"),
 	ImageLabel_16 = Instance.new("ImageLabel"),
-	UICorner_82 = Instance.new("UICorner"),
+	UICorner_80 = Instance.new("UICorner"),
 	ImageLabel_17 = Instance.new("ImageLabel"),
-	UICorner_83 = Instance.new("UICorner"),
+	UICorner_81 = Instance.new("UICorner"),
 	ToggleBtn_4 = Instance.new("TextButton"),
-	UICorner_84 = Instance.new("UICorner"),
+	UICorner_82 = Instance.new("UICorner"),
 	TextLabel_9 = Instance.new("TextLabel"),
+	Button_6 = Instance.new("TextButton"),
+	Frame_45 = Instance.new("Frame"),
+	UICorner_83 = Instance.new("UICorner"),
 	Frame_46 = Instance.new("Frame"),
 	Frame_47 = Instance.new("Frame"),
-	UICorner_85 = Instance.new("UICorner"),
-	Frame_48 = Instance.new("Frame"),
 	DM2 = Instance.new("Frame"),
 	ImageLabel_18 = Instance.new("ImageLabel"),
 	ImageLabel_19 = Instance.new("ImageLabel"),
@@ -207,53 +203,61 @@ local sirius = {
 	ImageLabel_21 = Instance.new("ImageLabel"),
 	Button_7 = Instance.new("TextButton"),
 	Button_8 = Instance.new("TextButton"),
-	UICorner_86 = Instance.new("UICorner"),
+	UICorner_84 = Instance.new("UICorner"),
+	Frame_48 = Instance.new("Frame"),
+	UICorner_85 = Instance.new("UICorner"),
 	Frame_49 = Instance.new("Frame"),
-	UICorner_87 = Instance.new("UICorner"),
+	UICorner_86 = Instance.new("UICorner"),
 	Frame_50 = Instance.new("Frame"),
-	UICorner_88 = Instance.new("UICorner"),
-	Frame_51 = Instance.new("Frame"),
 	TextBox = Instance.new("TextBox"),
-	UICorner_89 = Instance.new("UICorner"),
-	UICorner_90 = Instance.new("UICorner"),
+	UICorner_87 = Instance.new("UICorner"),
+	UICorner_88 = Instance.new("UICorner"),
 	TextLabel_10 = Instance.new("TextLabel"),
+	Frame_51 = Instance.new("Frame"),
+	UICorner_89 = Instance.new("UICorner"),
 	Frame_52 = Instance.new("Frame"),
-	UICorner_91 = Instance.new("UICorner"),
-	Frame_53 = Instance.new("Frame"),
-	UICorner_92 = Instance.new("UICorner"),
+	UICorner_90 = Instance.new("UICorner"),
 	Button_9 = Instance.new("TextButton"),
 	TextLabel_11 = Instance.new("TextLabel"),
 	TextLabel_12 = Instance.new("TextLabel"),
 	TextLabel_13 = Instance.new("TextLabel"),
 	_8 = Instance.new("Frame"),
-	UICorner_93 = Instance.new("UICorner"),
+	UICorner_91 = Instance.new("UICorner"),
+	Frame_53 = Instance.new("Frame"),
+	UICorner_92 = Instance.new("UICorner"),
 	Frame_54 = Instance.new("Frame"),
-	UICorner_94 = Instance.new("UICorner"),
-	Frame_55 = Instance.new("Frame"),
 	H1_8 = Instance.new("Frame"),
-	UICorner_95 = Instance.new("UICorner"),
+	UICorner_93 = Instance.new("UICorner"),
+	Frame_55 = Instance.new("Frame"),
+	UICorner_94 = Instance.new("UICorner"),
 	Frame_56 = Instance.new("Frame"),
+	UICorner_95 = Instance.new("UICorner"),
+	H2_8 = Instance.new("Frame"),
 	UICorner_96 = Instance.new("UICorner"),
 	Frame_57 = Instance.new("Frame"),
 	UICorner_97 = Instance.new("UICorner"),
-	H2_8 = Instance.new("Frame"),
-	UICorner_98 = Instance.new("UICorner"),
 	Frame_58 = Instance.new("Frame"),
-	UICorner_99 = Instance.new("UICorner"),
-	Frame_59 = Instance.new("Frame"),
-	UICorner_100 = Instance.new("UICorner"),
+	UICorner_98 = Instance.new("UICorner"),
 	ImageLabel_22 = Instance.new("ImageLabel"),
-	UICorner_101 = Instance.new("UICorner"),
+	UICorner_99 = Instance.new("UICorner"),
 	ImageLabel_23 = Instance.new("ImageLabel"),
-	UICorner_102 = Instance.new("UICorner"),
+	UICorner_100 = Instance.new("UICorner"),
 	ToggleBtn_5 = Instance.new("TextButton"),
-	UICorner_103 = Instance.new("UICorner"),
+	UICorner_101 = Instance.new("UICorner"),
 	TextLabel_14 = Instance.new("TextLabel"),
 	Button_10 = Instance.new("TextButton"),
+	Frame_59 = Instance.new("Frame"),
+	UICorner_102 = Instance.new("UICorner"),
 	Frame_60 = Instance.new("Frame"),
 	Frame_61 = Instance.new("Frame"),
-	UICorner_104 = Instance.new("UICorner"),
-	Frame_62 = Instance.new("Frame"),
+	MKN = Instance.new("Frame"),
+	ImageLabel_24 = Instance.new("ImageLabel"),
+	Text = Instance.new("TextLabel"),
+	Text_2 = Instance.new("TextLabel"),
+	Text_3 = Instance.new("TextLabel"),
+	UITextSizeConstraint = Instance.new("UITextSizeConstraint"),
+	Button_11 = Instance.new("TextButton"),
+	ImageLabel_25 = Instance.new("ImageLabel"),
 }
 
 --Properties:
@@ -273,20 +277,6 @@ sirius.DM1.ZIndex = 0
 
 sirius.UICorner.CornerRadius = UDim.new(0, 15)
 sirius.UICorner.Parent = sirius.DM1
-
-sirius.Button.Name = "Button"
-sirius.Button.Parent = sirius.DM1
-sirius.Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-sirius.Button.BackgroundTransparency = 1.000
-sirius.Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button.BorderSizePixel = 0
-sirius.Button.Position = UDim2.new(0.790582955, 0, 0.0037593951, 0)
-sirius.Button.Size = UDim2.new(0.101540431, 0, 0.0864661708, 0)
-sirius.Button.ZIndex = 2
-sirius.Button.Font = Enum.Font.SourceSans
-sirius.Button.Text = ""
-sirius.Button.TextColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button.TextSize = 14.000
 
 sirius.ImageLabel.Parent = sirius.DM1
 sirius.ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -329,33 +319,33 @@ sirius.ImageLabel_3.Size = UDim2.new(0.0899122879, 0, 0.0751879662, 0)
 sirius.ImageLabel_3.ZIndex = 2
 sirius.ImageLabel_3.Image = "rbxassetid://126502568012648"
 
+sirius.Button.Name = "Button"
+sirius.Button.Parent = sirius.DM1
+sirius.Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Button.BackgroundTransparency = 1.000
+sirius.Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button.BorderSizePixel = 0
+sirius.Button.Position = UDim2.new(0.885684133, 0, 0.00722024823, 0)
+sirius.Button.Size = UDim2.new(0.107456148, 0, 0.0827067643, 0)
+sirius.Button.ZIndex = 3
+sirius.Button.Font = Enum.Font.SourceSans
+sirius.Button.Text = ""
+sirius.Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button.TextSize = 14.000
+
 sirius.Button_2.Name = "Button"
 sirius.Button_2.Parent = sirius.DM1
 sirius.Button_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.Button_2.BackgroundTransparency = 1.000
 sirius.Button_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Button_2.BorderSizePixel = 0
-sirius.Button_2.Position = UDim2.new(0.885684133, 0, 0.00722024823, 0)
-sirius.Button_2.Size = UDim2.new(0.107456148, 0, 0.0827067643, 0)
-sirius.Button_2.ZIndex = 3
+sirius.Button_2.Position = UDim2.new(0.692842185, 0, 0.00375939859, 0)
+sirius.Button_2.Size = UDim2.new(0.100877203, 0, 0.0864661634, 0)
+sirius.Button_2.ZIndex = 2
 sirius.Button_2.Font = Enum.Font.SourceSans
 sirius.Button_2.Text = ""
 sirius.Button_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Button_2.TextSize = 14.000
-
-sirius.Button_3.Name = "Button"
-sirius.Button_3.Parent = sirius.DM1
-sirius.Button_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-sirius.Button_3.BackgroundTransparency = 1.000
-sirius.Button_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_3.BorderSizePixel = 0
-sirius.Button_3.Position = UDim2.new(0.692842185, 0, 0.00375939859, 0)
-sirius.Button_3.Size = UDim2.new(0.100877203, 0, 0.0864661634, 0)
-sirius.Button_3.ZIndex = 2
-sirius.Button_3.Font = Enum.Font.SourceSans
-sirius.Button_3.Text = ""
-sirius.Button_3.TextColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_3.TextSize = 14.000
 
 sirius.TextLabel.Parent = sirius.DM1
 sirius.TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -499,21 +489,21 @@ sirius.ImageLabel_5.Image = "rbxassetid://117474958206527"
 sirius.UICorner_11.CornerRadius = UDim.new(0, 15)
 sirius.UICorner_11.Parent = sirius.ImageLabel_5
 
-sirius.Button_4.Name = "Button"
-sirius.Button_4.Parent = sirius.Frame_2
-sirius.Button_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_4.BackgroundTransparency = 1.000
-sirius.Button_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_4.BorderSizePixel = 0
-sirius.Button_4.Position = UDim2.new(0.182439044, 0, 0.202992171, 0)
-sirius.Button_4.Size = UDim2.new(0.641300082, 0, 0.664438903, 0)
-sirius.Button_4.Font = Enum.Font.SourceSans
-sirius.Button_4.Text = ""
-sirius.Button_4.TextColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_4.TextSize = 14.000
+sirius.Button_3.Name = "Button"
+sirius.Button_3.Parent = sirius.Frame_2
+sirius.Button_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_3.BackgroundTransparency = 1.000
+sirius.Button_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_3.BorderSizePixel = 0
+sirius.Button_3.Position = UDim2.new(0.182439044, 0, 0.202992171, 0)
+sirius.Button_3.Size = UDim2.new(0.641300082, 0, 0.664438903, 0)
+sirius.Button_3.Font = Enum.Font.SourceSans
+sirius.Button_3.Text = ""
+sirius.Button_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_3.TextSize = 14.000
 
 sirius.UICorner_12.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_12.Parent = sirius.Button_4
+sirius.UICorner_12.Parent = sirius.Button_3
 
 sirius.TextLabel_3.Parent = sirius.DM1
 sirius.TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -656,21 +646,21 @@ sirius.ImageLabel_7.Image = "rbxassetid://117474958206527"
 sirius.UICorner_22.CornerRadius = UDim.new(0, 15)
 sirius.UICorner_22.Parent = sirius.ImageLabel_7
 
-sirius.Button_5.Name = "Button"
-sirius.Button_5.Parent = sirius.Frame_8
-sirius.Button_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_5.BackgroundTransparency = 1.000
-sirius.Button_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_5.BorderSizePixel = 0
-sirius.Button_5.Position = UDim2.new(0.182439044, 0, 0.202992171, 0)
-sirius.Button_5.Size = UDim2.new(0.641300082, 0, 0.664438903, 0)
-sirius.Button_5.Font = Enum.Font.SourceSans
-sirius.Button_5.Text = ""
-sirius.Button_5.TextColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_5.TextSize = 14.000
+sirius.Button_4.Name = "Button"
+sirius.Button_4.Parent = sirius.Frame_8
+sirius.Button_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_4.BackgroundTransparency = 1.000
+sirius.Button_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_4.BorderSizePixel = 0
+sirius.Button_4.Position = UDim2.new(0.182439044, 0, 0.202992171, 0)
+sirius.Button_4.Size = UDim2.new(0.641300082, 0, 0.664438903, 0)
+sirius.Button_4.Font = Enum.Font.SourceSans
+sirius.Button_4.Text = ""
+sirius.Button_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_4.TextSize = 14.000
 
 sirius.UICorner_23.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_23.Parent = sirius.Button_5
+sirius.UICorner_23.Parent = sirius.Button_4
 
 sirius._3.Name = "3"
 sirius._3.Parent = sirius.DM1
@@ -797,21 +787,21 @@ sirius.ImageLabel_9.Image = "rbxassetid://117474958206527"
 sirius.UICorner_33.CornerRadius = UDim.new(0, 15)
 sirius.UICorner_33.Parent = sirius.ImageLabel_9
 
-sirius.Button_6.Name = "Button"
-sirius.Button_6.Parent = sirius.Frame_14
-sirius.Button_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_6.BackgroundTransparency = 1.000
-sirius.Button_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_6.BorderSizePixel = 0
-sirius.Button_6.Position = UDim2.new(0.182439044, 0, 0.202992171, 0)
-sirius.Button_6.Size = UDim2.new(0.641300082, 0, 0.664438903, 0)
-sirius.Button_6.Font = Enum.Font.SourceSans
-sirius.Button_6.Text = ""
-sirius.Button_6.TextColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Button_6.TextSize = 14.000
+sirius.Button_5.Name = "Button"
+sirius.Button_5.Parent = sirius.Frame_14
+sirius.Button_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_5.BackgroundTransparency = 1.000
+sirius.Button_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_5.BorderSizePixel = 0
+sirius.Button_5.Position = UDim2.new(0.182439044, 0, 0.202992171, 0)
+sirius.Button_5.Size = UDim2.new(0.641300082, 0, 0.664438903, 0)
+sirius.Button_5.Font = Enum.Font.SourceSans
+sirius.Button_5.Text = ""
+sirius.Button_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_5.TextSize = 14.000
 
 sirius.UICorner_34.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_34.Parent = sirius.Button_6
+sirius.UICorner_34.Parent = sirius.Button_5
 
 sirius._4.Name = "4"
 sirius._4.Parent = sirius.DM1
@@ -1292,36 +1282,6 @@ sirius.TextLabel_8.TextSize = 14.000
 sirius.TextLabel_8.TextWrapped = true
 sirius.TextLabel_8.TextXAlignment = Enum.TextXAlignment.Left
 
-sirius.Frame_39.Parent = sirius.Frame_33
-sirius.Frame_39.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
-sirius.Frame_39.BackgroundTransparency = 1.000
-sirius.Frame_39.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_39.BorderSizePixel = 0
-sirius.Frame_39.Position = UDim2.new(0.238290325, 0, 0.0699515715, 0)
-sirius.Frame_39.Size = UDim2.new(0.16555877, 0, 0.862744868, 0)
-
-sirius.UICorner_72.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_72.Parent = sirius.Frame_39
-
-sirius.BOOX1_3.Name = "BOOX1"
-sirius.BOOX1_3.Parent = sirius.Frame_33
-sirius.BOOX1_3.BackgroundColor3 = Color3.fromRGB(73, 73, 73)
-sirius.BOOX1_3.BackgroundTransparency = 1.000
-sirius.BOOX1_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.BOOX1_3.BorderSizePixel = 0
-sirius.BOOX1_3.Position = UDim2.new(0.916329205, 0, 0.139906704, 0)
-sirius.BOOX1_3.Size = UDim2.new(0, 0, 0.722840309, 0)
-sirius.BOOX1_3.ZIndex = 2
-sirius.BOOX1_3.Font = Enum.Font.SourceSans
-sirius.BOOX1_3.Text = ""
-sirius.BOOX1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-sirius.BOOX1_3.TextScaled = true
-sirius.BOOX1_3.TextSize = 14.000
-sirius.BOOX1_3.TextWrapped = true
-
-sirius.UICorner_73.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_73.Parent = sirius.BOOX1_3
-
 sirius._7.Name = "7"
 sirius._7.Parent = sirius.DM1
 sirius._7.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
@@ -1330,57 +1290,57 @@ sirius._7.BorderSizePixel = 0
 sirius._7.Position = UDim2.new(0.0217934456, 0, 0.77070123, 0)
 sirius._7.Size = UDim2.new(0.960526407, 0, 0.092105262, 0)
 
-sirius.UICorner_74.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_74.Parent = sirius._7
+sirius.UICorner_72.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_72.Parent = sirius._7
 
-sirius.Frame_40.Parent = sirius._7
-sirius.Frame_40.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_39.Parent = sirius._7
+sirius.Frame_39.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_39.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Frame_39.BorderSizePixel = 0
+sirius.Frame_39.Position = UDim2.new(0.00449971296, 0, 0.0635432005, 0)
+sirius.Frame_39.Size = UDim2.new(0.988750696, 0, 0.87523216, 0)
+
+sirius.UICorner_73.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_73.Parent = sirius.Frame_39
+
+sirius.Frame_40.Parent = sirius.Frame_39
+sirius.Frame_40.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Frame_40.BackgroundTransparency = 1.000
 sirius.Frame_40.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_40.BorderSizePixel = 0
-sirius.Frame_40.Position = UDim2.new(0.00449971296, 0, 0.0635432005, 0)
-sirius.Frame_40.Size = UDim2.new(0.988750696, 0, 0.87523216, 0)
-
-sirius.UICorner_75.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_75.Parent = sirius.Frame_40
-
-sirius.Frame_41.Parent = sirius.Frame_40
-sirius.Frame_41.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-sirius.Frame_41.BackgroundTransparency = 1.000
-sirius.Frame_41.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_41.BorderSizePixel = 0
-sirius.Frame_41.Position = UDim2.new(-0.000867613649, 0, -0.0726020783, 0)
-sirius.Frame_41.Size = UDim2.new(0.269736856, 0, 1.14255297, 0)
-sirius.Frame_41.ZIndex = 2
+sirius.Frame_40.Position = UDim2.new(-0.000867613649, 0, -0.0726020783, 0)
+sirius.Frame_40.Size = UDim2.new(0.269736856, 0, 1.14255297, 0)
+sirius.Frame_40.ZIndex = 2
 
 sirius.H1_7.Name = "H1"
-sirius.H1_7.Parent = sirius.Frame_41
+sirius.H1_7.Parent = sirius.Frame_40
 sirius.H1_7.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 sirius.H1_7.BackgroundTransparency = 1.000
 sirius.H1_7.BorderSizePixel = 0
 sirius.H1_7.Position = UDim2.new(-0.0569105707, 0, 0.116486087, 0)
 sirius.H1_7.Size = UDim2.new(1.11999881, 0, 0.824687779, 0)
 
-sirius.UICorner_76.CornerRadius = UDim.new(0, 25)
-sirius.UICorner_76.Parent = sirius.H1_7
+sirius.UICorner_74.CornerRadius = UDim.new(0, 25)
+sirius.UICorner_74.Parent = sirius.H1_7
 
-sirius.Frame_42.Parent = sirius.H1_7
-sirius.Frame_42.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
-sirius.Frame_42.Position = UDim2.new(0.25, 0, 0.200000003, 0)
-sirius.Frame_42.Size = UDim2.new(0.5, 0, 0.600000024, 0)
+sirius.Frame_41.Parent = sirius.H1_7
+sirius.Frame_41.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
+sirius.Frame_41.Position = UDim2.new(0.25, 0, 0.200000003, 0)
+sirius.Frame_41.Size = UDim2.new(0.5, 0, 0.600000024, 0)
 
-sirius.UICorner_77.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_77.Parent = sirius.Frame_42
+sirius.UICorner_75.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_75.Parent = sirius.Frame_41
 
-sirius.Frame_43.Parent = sirius.Frame_42
-sirius.Frame_43.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
-sirius.Frame_43.Position = UDim2.new(0.0333333611, 0, 0.0666664466, 0)
-sirius.Frame_43.Size = UDim2.new(0.393054008, 0, 0.866666555, 0)
+sirius.Frame_42.Parent = sirius.Frame_41
+sirius.Frame_42.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
+sirius.Frame_42.Position = UDim2.new(0.0333333611, 0, 0.0666664466, 0)
+sirius.Frame_42.Size = UDim2.new(0.393054008, 0, 0.866666555, 0)
 
-sirius.UICorner_78.CornerRadius = UDim.new(1, 0)
-sirius.UICorner_78.Parent = sirius.Frame_43
+sirius.UICorner_76.CornerRadius = UDim.new(1, 0)
+sirius.UICorner_76.Parent = sirius.Frame_42
 
 sirius.H2_7.Name = "H2"
-sirius.H2_7.Parent = sirius.Frame_41
+sirius.H2_7.Parent = sirius.Frame_40
 sirius.H2_7.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 sirius.H2_7.BackgroundTransparency = 1.000
 sirius.H2_7.BorderSizePixel = 0
@@ -1388,28 +1348,28 @@ sirius.H2_7.Position = UDim2.new(-0.0569105707, 0, 0.116486087, 0)
 sirius.H2_7.Size = UDim2.new(1.11999881, 0, 0.824687779, 0)
 sirius.H2_7.Visible = false
 
-sirius.UICorner_79.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_79.Parent = sirius.H2_7
+sirius.UICorner_77.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_77.Parent = sirius.H2_7
 
-sirius.Frame_44.Parent = sirius.H2_7
-sirius.Frame_44.BackgroundColor3 = Color3.fromRGB(26, 0, 170)
-sirius.Frame_44.Position = UDim2.new(0.25, 0, 0.200000003, 0)
-sirius.Frame_44.Size = UDim2.new(0.5, 0, 0.600000024, 0)
+sirius.Frame_43.Parent = sirius.H2_7
+sirius.Frame_43.BackgroundColor3 = Color3.fromRGB(26, 0, 170)
+sirius.Frame_43.Position = UDim2.new(0.25, 0, 0.200000003, 0)
+sirius.Frame_43.Size = UDim2.new(0.5, 0, 0.600000024, 0)
 
-sirius.UICorner_80.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_80.Parent = sirius.Frame_44
+sirius.UICorner_78.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_78.Parent = sirius.Frame_43
 
-sirius.Frame_45.Parent = sirius.Frame_44
-sirius.Frame_45.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
-sirius.Frame_45.BackgroundTransparency = 1.000
-sirius.Frame_45.Position = UDim2.new(0.573613107, 0, 0.0666664466, 0)
-sirius.Frame_45.Size = UDim2.new(0.393054038, 0, 0.866666675, 0)
-sirius.Frame_45.ZIndex = 2
+sirius.Frame_44.Parent = sirius.Frame_43
+sirius.Frame_44.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
+sirius.Frame_44.BackgroundTransparency = 1.000
+sirius.Frame_44.Position = UDim2.new(0.573613107, 0, 0.0666664466, 0)
+sirius.Frame_44.Size = UDim2.new(0.393054038, 0, 0.866666675, 0)
+sirius.Frame_44.ZIndex = 2
 
-sirius.UICorner_81.CornerRadius = UDim.new(1, 0)
-sirius.UICorner_81.Parent = sirius.Frame_45
+sirius.UICorner_79.CornerRadius = UDim.new(1, 0)
+sirius.UICorner_79.Parent = sirius.Frame_44
 
-sirius.ImageLabel_16.Parent = sirius.Frame_45
+sirius.ImageLabel_16.Parent = sirius.Frame_44
 sirius.ImageLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.ImageLabel_16.BackgroundTransparency = 1.000
 sirius.ImageLabel_16.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1418,10 +1378,10 @@ sirius.ImageLabel_16.Position = UDim2.new(6.76326454e-06, 0, 0, 0)
 sirius.ImageLabel_16.Size = UDim2.new(0.997283936, 0, 0.960187793, 0)
 sirius.ImageLabel_16.Image = "rbxassetid://127786810582170"
 
-sirius.UICorner_82.CornerRadius = UDim.new(1, 0)
-sirius.UICorner_82.Parent = sirius.ImageLabel_16
+sirius.UICorner_80.CornerRadius = UDim.new(1, 0)
+sirius.UICorner_80.Parent = sirius.ImageLabel_16
 
-sirius.ImageLabel_17.Parent = sirius.Frame_44
+sirius.ImageLabel_17.Parent = sirius.Frame_43
 sirius.ImageLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.ImageLabel_17.BackgroundTransparency = 1.000
 sirius.ImageLabel_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1429,11 +1389,11 @@ sirius.ImageLabel_17.BorderSizePixel = 0
 sirius.ImageLabel_17.Size = UDim2.new(0.987225175, 0, 0.990669906, 0)
 sirius.ImageLabel_17.Image = "rbxassetid://117474958206527"
 
-sirius.UICorner_83.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_83.Parent = sirius.ImageLabel_17
+sirius.UICorner_81.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_81.Parent = sirius.ImageLabel_17
 
 sirius.ToggleBtn_4.Name = "ToggleBtn"
-sirius.ToggleBtn_4.Parent = sirius.Frame_41
+sirius.ToggleBtn_4.Parent = sirius.Frame_40
 sirius.ToggleBtn_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 sirius.ToggleBtn_4.BackgroundTransparency = 1.000
 sirius.ToggleBtn_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1445,10 +1405,10 @@ sirius.ToggleBtn_4.Text = ""
 sirius.ToggleBtn_4.TextColor3 = Color3.fromRGB(0, 0, 0)
 sirius.ToggleBtn_4.TextSize = 14.000
 
-sirius.UICorner_84.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_84.Parent = sirius.ToggleBtn_4
+sirius.UICorner_82.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_82.Parent = sirius.ToggleBtn_4
 
-sirius.TextLabel_9.Parent = sirius.Frame_40
+sirius.TextLabel_9.Parent = sirius.Frame_39
 sirius.TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.TextLabel_9.BackgroundTransparency = 1.000
 sirius.TextLabel_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1463,29 +1423,43 @@ sirius.TextLabel_9.TextSize = 14.000
 sirius.TextLabel_9.TextWrapped = true
 sirius.TextLabel_9.TextXAlignment = Enum.TextXAlignment.Left
 
+sirius.Button_6.Name = "Button"
+sirius.Button_6.Parent = sirius.DM1
+sirius.Button_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Button_6.BackgroundTransparency = 1.000
+sirius.Button_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_6.BorderSizePixel = 0
+sirius.Button_6.Position = UDim2.new(0.790582955, 0, 0.0037593951, 0)
+sirius.Button_6.Size = UDim2.new(0.101540431, 0, 0.0864661708, 0)
+sirius.Button_6.ZIndex = 2
+sirius.Button_6.Font = Enum.Font.SourceSans
+sirius.Button_6.Text = ""
+sirius.Button_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_6.TextSize = 14.000
+
+sirius.Frame_45.Parent = sirius.DM1
+sirius.Frame_45.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_45.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Frame_45.BorderSizePixel = 0
+sirius.Frame_45.Size = UDim2.new(1.00000012, 0, 0.0754066035, 0)
+
+sirius.UICorner_83.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_83.Parent = sirius.Frame_45
+
 sirius.Frame_46.Parent = sirius.DM1
 sirius.Frame_46.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 sirius.Frame_46.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_46.BorderSizePixel = 0
 sirius.Frame_46.Position = UDim2.new(0, 0, 0.0520234294, 0)
-sirius.Frame_46.Size = UDim2.new(0.9991979, 0, 0.0488721803, 0)
+sirius.Frame_46.Size = UDim2.new(1.00000012, 0, 0.0488721803, 0)
 
 sirius.Frame_47.Parent = sirius.DM1
-sirius.Frame_47.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_47.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
 sirius.Frame_47.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_47.BorderSizePixel = 0
-sirius.Frame_47.Size = UDim2.new(0.9991979, 0, 0.0754066035, 0)
-
-sirius.UICorner_85.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_85.Parent = sirius.Frame_47
-
-sirius.Frame_48.Parent = sirius.DM1
-sirius.Frame_48.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
-sirius.Frame_48.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_48.BorderSizePixel = 0
-sirius.Frame_48.Position = UDim2.new(-1.29687066e-07, 0, 0.100895613, 0)
-sirius.Frame_48.Size = UDim2.new(0.999052763, 0, -0.00516629545, 0)
-sirius.Frame_48.ZIndex = 2
+sirius.Frame_47.Position = UDim2.new(-2.59374133e-07, 0, 0.100895613, 0)
+sirius.Frame_47.Size = UDim2.new(1.00000024, 0, -0.00516629545, 0)
+sirius.Frame_47.ZIndex = 2
 
 sirius.DM2.Name = "DM2"
 sirius.DM2.Parent = sirius.sirius
@@ -1564,37 +1538,37 @@ sirius.Button_8.Text = ""
 sirius.Button_8.TextColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Button_8.TextSize = 14.000
 
-sirius.UICorner_86.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_86.Parent = sirius.DM2
+sirius.UICorner_84.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_84.Parent = sirius.DM2
+
+sirius.Frame_48.Parent = sirius.DM2
+sirius.Frame_48.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+sirius.Frame_48.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Frame_48.BorderSizePixel = 0
+sirius.Frame_48.Position = UDim2.new(0.0175438598, 0, 0.251879692, 0)
+sirius.Frame_48.Size = UDim2.new(0.960526407, 0, 0.092105262, 0)
+
+sirius.UICorner_85.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_85.Parent = sirius.Frame_48
 
 sirius.Frame_49.Parent = sirius.DM2
-sirius.Frame_49.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+sirius.Frame_49.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 sirius.Frame_49.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_49.BorderSizePixel = 0
-sirius.Frame_49.Position = UDim2.new(0.0175438598, 0, 0.251879692, 0)
-sirius.Frame_49.Size = UDim2.new(0.960526407, 0, 0.092105262, 0)
+sirius.Frame_49.Position = UDim2.new(0.0241228081, 0, 0.255639106, 0)
+sirius.Frame_49.Size = UDim2.new(0.947368503, 0, 0.0845864639, 0)
 
-sirius.UICorner_87.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_87.Parent = sirius.Frame_49
+sirius.UICorner_86.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_86.Parent = sirius.Frame_49
 
-sirius.Frame_50.Parent = sirius.DM2
-sirius.Frame_50.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_50.Parent = sirius.Frame_49
+sirius.Frame_50.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 sirius.Frame_50.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_50.BorderSizePixel = 0
-sirius.Frame_50.Position = UDim2.new(0.0241228081, 0, 0.255639106, 0)
-sirius.Frame_50.Size = UDim2.new(0.947368503, 0, 0.0845864639, 0)
+sirius.Frame_50.Position = UDim2.new(0.0555555597, 0, 0.155555561, 0)
+sirius.Frame_50.Size = UDim2.new(0.0925925896, 0, 0.75555557, 0)
 
-sirius.UICorner_88.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_88.Parent = sirius.Frame_50
-
-sirius.Frame_51.Parent = sirius.Frame_50
-sirius.Frame_51.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
-sirius.Frame_51.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_51.BorderSizePixel = 0
-sirius.Frame_51.Position = UDim2.new(0.0555555597, 0, 0.155555561, 0)
-sirius.Frame_51.Size = UDim2.new(0.0925925896, 0, 0.75555557, 0)
-
-sirius.TextBox.Parent = sirius.Frame_51
+sirius.TextBox.Parent = sirius.Frame_50
 sirius.TextBox.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 sirius.TextBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.TextBox.BorderSizePixel = 0
@@ -1607,13 +1581,13 @@ sirius.TextBox.TextScaled = true
 sirius.TextBox.TextSize = 14.000
 sirius.TextBox.TextWrapped = true
 
-sirius.UICorner_89.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_89.Parent = sirius.TextBox
+sirius.UICorner_87.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_87.Parent = sirius.TextBox
 
-sirius.UICorner_90.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_90.Parent = sirius.Frame_51
+sirius.UICorner_88.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_88.Parent = sirius.Frame_50
 
-sirius.TextLabel_10.Parent = sirius.Frame_50
+sirius.TextLabel_10.Parent = sirius.Frame_49
 sirius.TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.TextLabel_10.BackgroundTransparency = 1.000
 sirius.TextLabel_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1629,28 +1603,28 @@ sirius.TextLabel_10.TextStrokeTransparency = 0.000
 sirius.TextLabel_10.TextWrapped = true
 sirius.TextLabel_10.TextXAlignment = Enum.TextXAlignment.Left
 
+sirius.Frame_51.Parent = sirius.DM2
+sirius.Frame_51.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+sirius.Frame_51.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Frame_51.BorderSizePixel = 0
+sirius.Frame_51.Position = UDim2.new(0.0175438598, 0, 0.146616533, 0)
+sirius.Frame_51.Size = UDim2.new(0.960526407, 0, 0.092105262, 0)
+
+sirius.UICorner_89.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_89.Parent = sirius.Frame_51
+
 sirius.Frame_52.Parent = sirius.DM2
-sirius.Frame_52.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+sirius.Frame_52.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 sirius.Frame_52.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_52.BorderSizePixel = 0
-sirius.Frame_52.Position = UDim2.new(0.0175438598, 0, 0.146616533, 0)
-sirius.Frame_52.Size = UDim2.new(0.960526407, 0, 0.092105262, 0)
+sirius.Frame_52.Position = UDim2.new(0.0241228081, 0, 0.150375947, 0)
+sirius.Frame_52.Size = UDim2.new(0.947368503, 0, 0.0845864639, 0)
 
-sirius.UICorner_91.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_91.Parent = sirius.Frame_52
-
-sirius.Frame_53.Parent = sirius.DM2
-sirius.Frame_53.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
-sirius.Frame_53.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_53.BorderSizePixel = 0
-sirius.Frame_53.Position = UDim2.new(0.0241228081, 0, 0.150375947, 0)
-sirius.Frame_53.Size = UDim2.new(0.947368503, 0, 0.0845864639, 0)
-
-sirius.UICorner_92.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_92.Parent = sirius.Frame_53
+sirius.UICorner_90.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_90.Parent = sirius.Frame_52
 
 sirius.Button_9.Name = "Button"
-sirius.Button_9.Parent = sirius.Frame_53
+sirius.Button_9.Parent = sirius.Frame_52
 sirius.Button_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.Button_9.BackgroundTransparency = 1.000
 sirius.Button_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1662,7 +1636,7 @@ sirius.Button_9.TextColor3 = Color3.fromRGB(74, 74, 74)
 sirius.Button_9.TextSize = 22.000
 sirius.Button_9.TextWrapped = true
 
-sirius.TextLabel_11.Parent = sirius.Frame_53
+sirius.TextLabel_11.Parent = sirius.Frame_52
 sirius.TextLabel_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.TextLabel_11.BackgroundTransparency = 1.000
 sirius.TextLabel_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1718,57 +1692,57 @@ sirius._8.BorderSizePixel = 0
 sirius._8.Position = UDim2.new(0.0217934456, 0, 0.359542727, 0)
 sirius._8.Size = UDim2.new(0.960526407, 0, 0.092105262, 0)
 
-sirius.UICorner_93.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_93.Parent = sirius._8
+sirius.UICorner_91.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_91.Parent = sirius._8
 
-sirius.Frame_54.Parent = sirius._8
-sirius.Frame_54.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_53.Parent = sirius._8
+sirius.Frame_53.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_53.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Frame_53.BorderSizePixel = 0
+sirius.Frame_53.Position = UDim2.new(0.00449971296, 0, 0.0635432005, 0)
+sirius.Frame_53.Size = UDim2.new(0.988750696, 0, 0.87523216, 0)
+
+sirius.UICorner_92.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_92.Parent = sirius.Frame_53
+
+sirius.Frame_54.Parent = sirius.Frame_53
+sirius.Frame_54.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Frame_54.BackgroundTransparency = 1.000
 sirius.Frame_54.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_54.BorderSizePixel = 0
-sirius.Frame_54.Position = UDim2.new(0.00449971296, 0, 0.0635432005, 0)
-sirius.Frame_54.Size = UDim2.new(0.988750696, 0, 0.87523216, 0)
-
-sirius.UICorner_94.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_94.Parent = sirius.Frame_54
-
-sirius.Frame_55.Parent = sirius.Frame_54
-sirius.Frame_55.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-sirius.Frame_55.BackgroundTransparency = 1.000
-sirius.Frame_55.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_55.BorderSizePixel = 0
-sirius.Frame_55.Position = UDim2.new(-0.000867613649, 0, -0.0726020783, 0)
-sirius.Frame_55.Size = UDim2.new(0.269736856, 0, 1.14255297, 0)
-sirius.Frame_55.ZIndex = 2
+sirius.Frame_54.Position = UDim2.new(-0.000867613649, 0, -0.0726020783, 0)
+sirius.Frame_54.Size = UDim2.new(0.269736856, 0, 1.14255297, 0)
+sirius.Frame_54.ZIndex = 2
 
 sirius.H1_8.Name = "H1"
-sirius.H1_8.Parent = sirius.Frame_55
+sirius.H1_8.Parent = sirius.Frame_54
 sirius.H1_8.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 sirius.H1_8.BackgroundTransparency = 1.000
 sirius.H1_8.BorderSizePixel = 0
 sirius.H1_8.Position = UDim2.new(-0.0569105707, 0, 0.116486087, 0)
 sirius.H1_8.Size = UDim2.new(1.11999881, 0, 0.824687779, 0)
 
-sirius.UICorner_95.CornerRadius = UDim.new(0, 25)
-sirius.UICorner_95.Parent = sirius.H1_8
+sirius.UICorner_93.CornerRadius = UDim.new(0, 25)
+sirius.UICorner_93.Parent = sirius.H1_8
 
-sirius.Frame_56.Parent = sirius.H1_8
-sirius.Frame_56.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
-sirius.Frame_56.Position = UDim2.new(0.25, 0, 0.200000003, 0)
-sirius.Frame_56.Size = UDim2.new(0.5, 0, 0.600000024, 0)
+sirius.Frame_55.Parent = sirius.H1_8
+sirius.Frame_55.BackgroundColor3 = Color3.fromRGB(79, 79, 79)
+sirius.Frame_55.Position = UDim2.new(0.25, 0, 0.200000003, 0)
+sirius.Frame_55.Size = UDim2.new(0.5, 0, 0.600000024, 0)
 
-sirius.UICorner_96.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_96.Parent = sirius.Frame_56
+sirius.UICorner_94.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_94.Parent = sirius.Frame_55
 
-sirius.Frame_57.Parent = sirius.Frame_56
-sirius.Frame_57.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
-sirius.Frame_57.Position = UDim2.new(0.0333333611, 0, 0.0666664466, 0)
-sirius.Frame_57.Size = UDim2.new(0.393054008, 0, 0.866666555, 0)
+sirius.Frame_56.Parent = sirius.Frame_55
+sirius.Frame_56.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
+sirius.Frame_56.Position = UDim2.new(0.0333333611, 0, 0.0666664466, 0)
+sirius.Frame_56.Size = UDim2.new(0.393054008, 0, 0.866666555, 0)
 
-sirius.UICorner_97.CornerRadius = UDim.new(1, 0)
-sirius.UICorner_97.Parent = sirius.Frame_57
+sirius.UICorner_95.CornerRadius = UDim.new(1, 0)
+sirius.UICorner_95.Parent = sirius.Frame_56
 
 sirius.H2_8.Name = "H2"
-sirius.H2_8.Parent = sirius.Frame_55
+sirius.H2_8.Parent = sirius.Frame_54
 sirius.H2_8.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 sirius.H2_8.BackgroundTransparency = 1.000
 sirius.H2_8.BorderSizePixel = 0
@@ -1776,29 +1750,29 @@ sirius.H2_8.Position = UDim2.new(-0.0569105707, 0, 0.116486087, 0)
 sirius.H2_8.Size = UDim2.new(1.11999881, 0, 0.824687779, 0)
 sirius.H2_8.Visible = false
 
-sirius.UICorner_98.CornerRadius = UDim.new(0, 40)
-sirius.UICorner_98.Parent = sirius.H2_8
+sirius.UICorner_96.CornerRadius = UDim.new(0, 40)
+sirius.UICorner_96.Parent = sirius.H2_8
 
-sirius.Frame_58.Parent = sirius.H2_8
-sirius.Frame_58.BackgroundColor3 = Color3.fromRGB(26, 0, 170)
+sirius.Frame_57.Parent = sirius.H2_8
+sirius.Frame_57.BackgroundColor3 = Color3.fromRGB(26, 0, 170)
+sirius.Frame_57.BackgroundTransparency = 1.000
+sirius.Frame_57.Position = UDim2.new(0.25, 0, 0.200000003, 0)
+sirius.Frame_57.Size = UDim2.new(0.5, 0, 0.600000024, 0)
+
+sirius.UICorner_97.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_97.Parent = sirius.Frame_57
+
+sirius.Frame_58.Parent = sirius.Frame_57
+sirius.Frame_58.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
 sirius.Frame_58.BackgroundTransparency = 1.000
-sirius.Frame_58.Position = UDim2.new(0.25, 0, 0.200000003, 0)
-sirius.Frame_58.Size = UDim2.new(0.5, 0, 0.600000024, 0)
+sirius.Frame_58.Position = UDim2.new(0.573613107, 0, 0.0666664466, 0)
+sirius.Frame_58.Size = UDim2.new(0.393054038, 0, 0.866666675, 0)
+sirius.Frame_58.ZIndex = 2
 
-sirius.UICorner_99.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_99.Parent = sirius.Frame_58
+sirius.UICorner_98.CornerRadius = UDim.new(1, 0)
+sirius.UICorner_98.Parent = sirius.Frame_58
 
-sirius.Frame_59.Parent = sirius.Frame_58
-sirius.Frame_59.BackgroundColor3 = Color3.fromRGB(152, 152, 152)
-sirius.Frame_59.BackgroundTransparency = 1.000
-sirius.Frame_59.Position = UDim2.new(0.573613107, 0, 0.0666664466, 0)
-sirius.Frame_59.Size = UDim2.new(0.393054038, 0, 0.866666675, 0)
-sirius.Frame_59.ZIndex = 2
-
-sirius.UICorner_100.CornerRadius = UDim.new(1, 0)
-sirius.UICorner_100.Parent = sirius.Frame_59
-
-sirius.ImageLabel_22.Parent = sirius.Frame_59
+sirius.ImageLabel_22.Parent = sirius.Frame_58
 sirius.ImageLabel_22.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.ImageLabel_22.BackgroundTransparency = 1.000
 sirius.ImageLabel_22.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1807,10 +1781,10 @@ sirius.ImageLabel_22.Position = UDim2.new(6.76326454e-06, 0, 0, 0)
 sirius.ImageLabel_22.Size = UDim2.new(0.997283936, 0, 0.960187793, 0)
 sirius.ImageLabel_22.Image = "rbxassetid://127786810582170"
 
-sirius.UICorner_101.CornerRadius = UDim.new(1, 0)
-sirius.UICorner_101.Parent = sirius.ImageLabel_22
+sirius.UICorner_99.CornerRadius = UDim.new(1, 0)
+sirius.UICorner_99.Parent = sirius.ImageLabel_22
 
-sirius.ImageLabel_23.Parent = sirius.Frame_58
+sirius.ImageLabel_23.Parent = sirius.Frame_57
 sirius.ImageLabel_23.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.ImageLabel_23.BackgroundTransparency = 1.000
 sirius.ImageLabel_23.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1819,11 +1793,11 @@ sirius.ImageLabel_23.Position = UDim2.new(0, 0, -2.45819547e-06, 0)
 sirius.ImageLabel_23.Size = UDim2.new(1.0000006, 0, 1.00000012, 0)
 sirius.ImageLabel_23.Image = "rbxassetid://117474958206527"
 
-sirius.UICorner_102.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_102.Parent = sirius.ImageLabel_23
+sirius.UICorner_100.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_100.Parent = sirius.ImageLabel_23
 
 sirius.ToggleBtn_5.Name = "ToggleBtn"
-sirius.ToggleBtn_5.Parent = sirius.Frame_55
+sirius.ToggleBtn_5.Parent = sirius.Frame_54
 sirius.ToggleBtn_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 sirius.ToggleBtn_5.BackgroundTransparency = 1.000
 sirius.ToggleBtn_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1835,10 +1809,10 @@ sirius.ToggleBtn_5.Text = ""
 sirius.ToggleBtn_5.TextColor3 = Color3.fromRGB(0, 0, 0)
 sirius.ToggleBtn_5.TextSize = 14.000
 
-sirius.UICorner_103.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_103.Parent = sirius.ToggleBtn_5
+sirius.UICorner_101.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_101.Parent = sirius.ToggleBtn_5
 
-sirius.TextLabel_14.Parent = sirius.Frame_54
+sirius.TextLabel_14.Parent = sirius.Frame_53
 sirius.TextLabel_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 sirius.TextLabel_14.BackgroundTransparency = 1.000
 sirius.TextLabel_14.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1867,45 +1841,180 @@ sirius.Button_10.Text = ""
 sirius.Button_10.TextColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Button_10.TextSize = 14.000
 
+sirius.Frame_59.Parent = sirius.DM2
+sirius.Frame_59.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_59.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Frame_59.BorderSizePixel = 0
+sirius.Frame_59.Size = UDim2.new(1.00000012, 0, 0.0754066035, 0)
+
+sirius.UICorner_102.CornerRadius = UDim.new(0, 15)
+sirius.UICorner_102.Parent = sirius.Frame_59
+
 sirius.Frame_60.Parent = sirius.DM2
 sirius.Frame_60.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 sirius.Frame_60.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_60.BorderSizePixel = 0
 sirius.Frame_60.Position = UDim2.new(0, 0, 0.0520234294, 0)
-sirius.Frame_60.Size = UDim2.new(0.9991979, 0, 0.0488721803, 0)
+sirius.Frame_60.Size = UDim2.new(1.00000012, 0, 0.0488721803, 0)
 
 sirius.Frame_61.Parent = sirius.DM2
-sirius.Frame_61.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+sirius.Frame_61.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
 sirius.Frame_61.BorderColor3 = Color3.fromRGB(0, 0, 0)
 sirius.Frame_61.BorderSizePixel = 0
-sirius.Frame_61.Size = UDim2.new(0.9991979, 0, 0.0754066035, 0)
+sirius.Frame_61.Position = UDim2.new(-2.59374133e-07, 0, 0.100895613, 0)
+sirius.Frame_61.Size = UDim2.new(1.00000024, 0, -0.00516629545, 0)
+sirius.Frame_61.ZIndex = 2
 
-sirius.UICorner_104.CornerRadius = UDim.new(0, 15)
-sirius.UICorner_104.Parent = sirius.Frame_61
+sirius.MKN.Name = "MKN"
+sirius.MKN.Parent = sirius.sirius
+sirius.MKN.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.MKN.BackgroundTransparency = 1.000
+sirius.MKN.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.MKN.BorderSizePixel = 0
+sirius.MKN.Position = UDim2.new(0.185905606, 0, 0.198509485, 0)
+sirius.MKN.Size = UDim2.new(0.628188789, 0, 0.602981031, 0)
+sirius.MKN.Visible = false
 
-sirius.Frame_62.Parent = sirius.DM2
-sirius.Frame_62.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
-sirius.Frame_62.BorderColor3 = Color3.fromRGB(0, 0, 0)
-sirius.Frame_62.BorderSizePixel = 0
-sirius.Frame_62.Position = UDim2.new(-1.29687066e-07, 0, 0.100895613, 0)
-sirius.Frame_62.Size = UDim2.new(0.999052763, 0, -0.00516629545, 0)
-sirius.Frame_62.ZIndex = 2
+sirius.ImageLabel_24.Parent = sirius.MKN
+sirius.ImageLabel_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.ImageLabel_24.BackgroundTransparency = 1.000
+sirius.ImageLabel_24.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.ImageLabel_24.BorderSizePixel = 0
+sirius.ImageLabel_24.Position = UDim2.new(0.112944193, 0, 0.157303393, 0)
+sirius.ImageLabel_24.Size = UDim2.new(0.774111629, 0, 0.724719048, 0)
+sirius.ImageLabel_24.Image = "rbxassetid://107046936033360"
+
+sirius.Text.Name = "Text"
+sirius.Text.Parent = sirius.ImageLabel_24
+sirius.Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Text.BackgroundTransparency = 1.000
+sirius.Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Text.BorderSizePixel = 0
+sirius.Text.Position = UDim2.new(0.327868849, 0, 0.095151864, 0)
+sirius.Text.Size = UDim2.new(0.311475396, 0, 0.248062015, 0)
+sirius.Text.Font = Enum.Font.LuckiestGuy
+sirius.Text.Text = "404"
+sirius.Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Text.TextScaled = true
+sirius.Text.TextSize = 14.000
+sirius.Text.TextWrapped = true
+
+sirius.Text_2.Name = "Text"
+sirius.Text_2.Parent = sirius.ImageLabel_24
+sirius.Text_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Text_2.BackgroundTransparency = 1.000
+sirius.Text_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Text_2.BorderSizePixel = 0
+sirius.Text_2.Position = UDim2.new(0.327868849, 0, 0.28955397, 0)
+sirius.Text_2.Size = UDim2.new(0.311475396, 0, 0.15891473, 0)
+sirius.Text_2.Font = Enum.Font.Unknown
+sirius.Text_2.Text = "Erreur"
+sirius.Text_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+sirius.Text_2.TextScaled = true
+sirius.Text_2.TextSize = 14.000
+sirius.Text_2.TextWrapped = true
+
+sirius.Text_3.Name = "Text"
+sirius.Text_3.Parent = sirius.ImageLabel_24
+sirius.Text_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Text_3.BackgroundTransparency = 1.000
+sirius.Text_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Text_3.BorderSizePixel = 0
+sirius.Text_3.Position = UDim2.new(0.0295081958, 0, 0.447833389, 0)
+sirius.Text_3.Size = UDim2.new(0.94262296, 0, 0.468992233, 0)
+sirius.Text_3.Font = Enum.Font.Unknown
+sirius.Text_3.Text = "..."
+sirius.Text_3.TextColor3 = Color3.fromRGB(255, 238, 0)
+sirius.Text_3.TextScaled = true
+sirius.Text_3.TextSize = 25.000
+sirius.Text_3.TextWrapped = true
+sirius.Text_3.TextXAlignment = Enum.TextXAlignment.Left
+sirius.Text_3.TextYAlignment = Enum.TextYAlignment.Top
+
+sirius.UITextSizeConstraint.Parent = sirius.Text_3
+sirius.UITextSizeConstraint.MaxTextSize = 25
+
+sirius.Button_11.Name = "Button"
+sirius.Button_11.Parent = sirius.MKN
+sirius.Button_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.Button_11.BackgroundTransparency = 0.990
+sirius.Button_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_11.BorderSizePixel = 0
+sirius.Button_11.Position = UDim2.new(0.832487226, 0, 0.206112191, 0)
+sirius.Button_11.Size = UDim2.new(0.0494923815, 0, 0.101123586, 0)
+sirius.Button_11.Font = Enum.Font.SourceSans
+sirius.Button_11.Text = ""
+sirius.Button_11.TextColor3 = Color3.fromRGB(0, 0, 0)
+sirius.Button_11.TextSize = 14.000
+
+sirius.ImageLabel_25.Parent = sirius.Button_11
+sirius.ImageLabel_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+sirius.ImageLabel_25.BackgroundTransparency = 1.000
+sirius.ImageLabel_25.BorderColor3 = Color3.fromRGB(0, 0, 0)
+sirius.ImageLabel_25.BorderSizePixel = 0
+sirius.ImageLabel_25.Size = UDim2.new(1, 0, 1, 0)
+sirius.ImageLabel_25.ZIndex = 0
+sirius.ImageLabel_25.Image = "rbxassetid://98082737062914"
 
 -- Scripts:
 
-local function ADAVO_fake_script() -- sirius.sirius.LocalScript 
+local function NQWDYST_fake_script() -- sirius.sirius.LocalScript 
 	local script = Instance.new('LocalScript', sirius.sirius)
 
-	local Players = game:GetService("Players")
-	local player = Players.LocalPlayer
+	local Players = game:GetService("Players") -- Accède au service des joueurs
+	local player = Players.LocalPlayer -- Accède au joueur local
 	
-	local gui = player:WaitForChild("PlayerGui"):WaitForChild("sirius")
-	gui.ResetOnSpawn = false
-	ResetOnSpawn = false
+	local gui = player:WaitForChild("PlayerGui"):WaitForChild("sirius") -- On récupère le GUI
+	gui.ResetOnSpawn = false -- On désactive ResetOnSpawn pour ne pas cacher le GUI à chaque respawn
+	ResetOnSpawn = false -- Pour s'assurer que ResetOnSpawn est bien à false
 	
+	-- Paramètres
+	local ID_AUTORISE = 1597043326 -- Remplace par l'ID du jeu autorisé
+	local ScreenGui = script.Parent
+	local FrameMKN = ScreenGui:WaitForChild("MKN")--Il va rendre simplement la frame. Et la frame s'appelle-- C'est-- Comme tu vois, c'est ce nom. Et simplement, il va rendre visible cette frame qui-- Cette frame va contenir un message d'erreur pour expliquer au joueur. Et c'est ça que tu dois changer comme nom si tu veux un nouveau message d'erreur.
+	local Game = game
+	
+	-- Fonction pour tout cacher sauf MKN
+	local function cacherToutSaufMKN() -- Fonction pour cacher tout sauf MKN
+		for _, enfant in ipairs(ScreenGui:GetChildren()) do -- Parcours tous les enfants du ScreenGui
+			if enfant:IsA("GuiObject") then -- Vérifie si c'est un objet GUI
+				if enfant.Name == "MKN" then -- Si c'est MKN, on le montre
+					enfant.Visible = true -- On montre seulement MKN
+				else
+					enfant.Visible = false -- On cache tout le reste (Ploit, etc.)
+				end
+			end
+		end
+	end
+	
+	local function verifierIdDuJeu() -- Vérifie l'ID du jeu
+		if Game.PlaceId == ID_AUTORISE then -- Si c'est le bon jeu
+			-- Si c'est le bon jeu : On cache MKN au démarrage
+			FrameMKN.Visible = false
+			-- Ici, tu peux rendre tes autres menus visibles si tu le souhaites
+		else
+			-- MAUVAIS JEU : Sécurité activée
+	
+			-- 1. On cache tout sauf MKN immédiatement
+			cacherToutSaufMKN()
+	
+			-- 2. Spam d'erreur dans le serveur (Console)
+			warn("ERREUR : Ce n'est pas le bon jeu !")
+			warn("ERREUR : Ce n'est pas le bon jeu !")
+	
+			-- 3. Attente de 10 secondes avec MKN visible
+			task.wait(10)
+	
+			-- 4. Le "Run" (Arrêt total/Crash du script)
+			error("RUN : Système verrouillé. ID incorrect.")
+		end
+	end
+	
+	-- Lancement de la vérification
+	verifierIdDuJeu()
 end
-coroutine.wrap(ADAVO_fake_script)()
-local function DIFMZUS_fake_script() -- sirius.DM1.LocalScript 
+coroutine.wrap(NQWDYST_fake_script)()
+local function FZOGPXF_fake_script() -- sirius.DM1.LocalScript 
 	local script = Instance.new('LocalScript', sirius.DM1)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -1967,80 +2076,30 @@ local function DIFMZUS_fake_script() -- sirius.DM1.LocalScript
 	end)
 	
 end
-coroutine.wrap(DIFMZUS_fake_script)()
-local function ZTIGKW_fake_script() -- sirius.Button.LocalScript 
+coroutine.wrap(FZOGPXF_fake_script)()
+local function OXYEVOO_fake_script() -- sirius.Button.LocalScript 
 	local script = Instance.new('LocalScript', sirius.Button)
 
-	local TweenService = game:GetService("TweenService")
-	
+	-- Script à mettre dans ton bouton de suppression
 	local button = script.Parent
-	local frame1 = button.Parent -- DM1
-	local screenGui = frame1.Parent
-	local frame2 = screenGui:WaitForChild("DM2")
+	local screenGui = button:FindFirstAncestorOfClass("ScreenGui")
 	
-	-- Tailles normales
-	local normalSize1 = frame1.Size
-	local normalSize2 = frame2.Size
-	
-	-- Tailles réduites (90%)
-	local smallSize1 = UDim2.new(
-		normalSize1.X.Scale * 0.8,
-		normalSize1.X.Offset * 0.8,
-		normalSize1.Y.Scale * 0.8,
-		normalSize1.Y.Offset * 0.8
-	)
-	
-	local smallSize2 = UDim2.new(
-		normalSize2.X.Scale * 0.8,
-		normalSize2.X.Offset * 0.8,
-		normalSize2.Y.Scale * 0.8,
-		normalSize2.Y.Offset * 0.8
-	)
-	
-	local isSmall = false
-	
-	local tweenInfo = TweenInfo.new(
-		0.25,
-		Enum.EasingStyle.Quad,
-		Enum.EasingDirection.Out
-	)
+	-- On crée le signal "STOP"
+	local stopSignal = screenGui:FindFirstChild("FORCE_STOP") or Instance.new("BoolValue")
+	stopSignal.Name = "FORCE_STOP"
+	stopSignal.Parent = screenGui
+	stopSignal.Value = false
 	
 	button.MouseButton1Click:Connect(function()
-		local goal1
-		local goal2
+		stopSignal.Value = true -- On envoie le signal à tous les scripts
 	
-		if isSmall then
-			goal1 = normalSize1
-			goal2 = normalSize2
-		else
-			goal1 = smallSize1
-			goal2 = smallSize2
-		end
-	
-		TweenService:Create(frame1, tweenInfo, {Size = goal1}):Play()
-		TweenService:Create(frame2, tweenInfo, {Size = goal2}):Play()
-	
-		isSmall = not isSmall
+		task.wait(0.5) -- On laisse 2 secondes pour que tout se mette en "OFF"
+		screenGui:Destroy() -- On efface tout
 	end)
-	
 end
-coroutine.wrap(ZTIGKW_fake_script)()
-local function SVQIXK_fake_script() -- sirius.Button_2.LocalScript 
+coroutine.wrap(OXYEVOO_fake_script)()
+local function VQPJXYT_fake_script() -- sirius.Button_2.LocalScript 
 	local script = Instance.new('LocalScript', sirius.Button_2)
-
-	local button = script.Parent
-	local gui = button:FindFirstAncestorOfClass("ScreenGui")
-	
-	button.MouseButton1Click:Connect(function()
-		if gui then
-			gui:Destroy()
-		end
-	end)
-	
-end
-coroutine.wrap(SVQIXK_fake_script)()
-local function TSLM_fake_script() -- sirius.Button_3.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_3)
 
 	local button = script.Parent
 	
@@ -2071,9 +2130,9 @@ local function TSLM_fake_script() -- sirius.Button_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(TSLM_fake_script)()
-local function HHLXE_fake_script() -- sirius.Button_4.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_4)
+coroutine.wrap(VQPJXYT_fake_script)()
+local function MNYS_fake_script() -- sirius.Button_3.LocalScript 
+	local script = Instance.new('LocalScript', sirius.Button_3)
 
 	local button = script.Parent -- ton bouton
 	local parent = button.Parent
@@ -2096,9 +2155,9 @@ local function HHLXE_fake_script() -- sirius.Button_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(HHLXE_fake_script)()
-local function QNFPTJ_fake_script() -- sirius.Button_4.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_4)
+coroutine.wrap(MNYS_fake_script)()
+local function OLONX_fake_script() -- sirius.Button_3.1 
+	local script = Instance.new('LocalScript', sirius.Button_3)
 
 	--// SERVICES
 	local Players = game:GetService("Players")
@@ -2175,10 +2234,16 @@ local function QNFPTJ_fake_script() -- sirius.Button_4.LocalScript
 		end
 	end)
 	
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			AutoClick = false -- Arrête la boucle
+		end
+	end)
 end
-coroutine.wrap(QNFPTJ_fake_script)()
-local function WNLSK_fake_script() -- sirius.Button_5.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_5)
+coroutine.wrap(OLONX_fake_script)()
+local function MSPAXX_fake_script() -- sirius.Button_4.LocalScript 
+	local script = Instance.new('LocalScript', sirius.Button_4)
 
 	local button = script.Parent -- ton bouton
 	local parent = button.Parent
@@ -2201,9 +2266,9 @@ local function WNLSK_fake_script() -- sirius.Button_5.LocalScript
 	end)
 	
 end
-coroutine.wrap(WNLSK_fake_script)()
-local function OQEHP_fake_script() -- sirius.Button_5.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_5)
+coroutine.wrap(MSPAXX_fake_script)()
+local function UWKYNG_fake_script() -- sirius.Button_4.2 
+	local script = Instance.new('LocalScript', sirius.Button_4)
 
 	--// SERVICES
 	local Players = game:GetService("Players")
@@ -2280,10 +2345,16 @@ local function OQEHP_fake_script() -- sirius.Button_5.LocalScript
 		end
 	end)
 	
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			AutoClick = false -- Arrête la boucle
+		end
+	end)
 end
-coroutine.wrap(OQEHP_fake_script)()
-local function RKAMI_fake_script() -- sirius.Button_6.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_6)
+coroutine.wrap(UWKYNG_fake_script)()
+local function PAYNZHW_fake_script() -- sirius.Button_5.LocalScript 
+	local script = Instance.new('LocalScript', sirius.Button_5)
 
 	local button = script.Parent -- ton bouton
 	local parent = button.Parent
@@ -2306,9 +2377,9 @@ local function RKAMI_fake_script() -- sirius.Button_6.LocalScript
 	end)
 	
 end
-coroutine.wrap(RKAMI_fake_script)()
-local function SDVMIJE_fake_script() -- sirius.Button_6.LocalScript 
-	local script = Instance.new('LocalScript', sirius.Button_6)
+coroutine.wrap(PAYNZHW_fake_script)()
+local function FWOMT_fake_script() -- sirius.Button_5.3 
+	local script = Instance.new('LocalScript', sirius.Button_5)
 
 	--// SERVICES
 	local Players = game:GetService("Players")
@@ -2385,9 +2456,15 @@ local function SDVMIJE_fake_script() -- sirius.Button_6.LocalScript
 		end
 	end)
 	
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			AutoClick = false -- Arrête la boucle
+		end
+	end)
 end
-coroutine.wrap(SDVMIJE_fake_script)()
-local function WOEP_fake_script() -- sirius.BOOX1.LocalScript 
+coroutine.wrap(FWOMT_fake_script)()
+local function OLOK_fake_script() -- sirius.BOOX1.LocalScript 
 	local script = Instance.new('LocalScript', sirius.BOOX1)
 
 	local box = script.Parent
@@ -2398,8 +2475,8 @@ local function WOEP_fake_script() -- sirius.BOOX1.LocalScript
 	end)
 	
 end
-coroutine.wrap(WOEP_fake_script)()
-local function KUNYSOY_fake_script() -- sirius.BOOX1.LocalScript 
+coroutine.wrap(OLOK_fake_script)()
+local function NDIFS_fake_script() -- sirius.BOOX1.LocalScript 
 	local script = Instance.new('LocalScript', sirius.BOOX1)
 
 	local box = script.Parent
@@ -2417,8 +2494,8 @@ local function KUNYSOY_fake_script() -- sirius.BOOX1.LocalScript
 	end)
 	
 end
-coroutine.wrap(KUNYSOY_fake_script)()
-local function OGGEJ_fake_script() -- sirius.ToggleBtn.LocalScript 
+coroutine.wrap(NDIFS_fake_script)()
+local function RTUELX_fake_script() -- sirius.ToggleBtn.LocalScript 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn)
 
 	local button = script.Parent -- ton bouton
@@ -2442,8 +2519,8 @@ local function OGGEJ_fake_script() -- sirius.ToggleBtn.LocalScript
 	end)
 	
 end
-coroutine.wrap(OGGEJ_fake_script)()
-local function TFXTKAQ_fake_script() -- sirius.ToggleBtn.LocalScript 
+coroutine.wrap(RTUELX_fake_script)()
+local function ULYSQQ_fake_script() -- sirius.ToggleBtn.4 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn)
 
 	local Players = game:GetService("Players")
@@ -2495,9 +2572,20 @@ local function TFXTKAQ_fake_script() -- sirius.ToggleBtn.LocalScript
 		end
 	end)
 	
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			enabled = false
+			if connection then connection:Disconnect() end
+			local char = player.Character or player.CharacterAdded:Wait()
+			char.Humanoid.WalkSpeed = DEFAULT_SPEED -- Remet la vitesse normale
+		end
+	end)
+	
+	
 end
-coroutine.wrap(TFXTKAQ_fake_script)()
-local function JKWO_fake_script() -- sirius.BOOX1_2.LocalScript 
+coroutine.wrap(ULYSQQ_fake_script)()
+local function IEDURI_fake_script() -- sirius.BOOX1_2.LocalScript 
 	local script = Instance.new('LocalScript', sirius.BOOX1_2)
 
 	local box = script.Parent
@@ -2508,8 +2596,8 @@ local function JKWO_fake_script() -- sirius.BOOX1_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(JKWO_fake_script)()
-local function WSBYC_fake_script() -- sirius.BOOX1_2.LocalScript 
+coroutine.wrap(IEDURI_fake_script)()
+local function RPXHEV_fake_script() -- sirius.BOOX1_2.LocalScript 
 	local script = Instance.new('LocalScript', sirius.BOOX1_2)
 
 	local box = script.Parent
@@ -2527,8 +2615,8 @@ local function WSBYC_fake_script() -- sirius.BOOX1_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(WSBYC_fake_script)()
-local function TBWVUOJ_fake_script() -- sirius.ToggleBtn_2.LocalScript 
+coroutine.wrap(RPXHEV_fake_script)()
+local function LXGRUCP_fake_script() -- sirius.ToggleBtn_2.LocalScript 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_2)
 
 	local button = script.Parent -- ton bouton
@@ -2552,8 +2640,8 @@ local function TBWVUOJ_fake_script() -- sirius.ToggleBtn_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(TBWVUOJ_fake_script)()
-local function FCJVQC_fake_script() -- sirius.ToggleBtn_2.LocalScript 
+coroutine.wrap(LXGRUCP_fake_script)()
+local function HOXFML_fake_script() -- sirius.ToggleBtn_2.5 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_2)
 
 	local Players = game:GetService("Players")
@@ -2610,9 +2698,18 @@ local function FCJVQC_fake_script() -- sirius.ToggleBtn_2.LocalScript
 		end
 	end)
 	
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			enabled = false
+			if connection then connection:Disconnect() end
+			local char = player.Character or player.CharacterAdded:Wait()
+			char.Humanoid.JumpPower = DEFAULT_JUMP -- Remet le saut normal
+		end
+	end)
 end
-coroutine.wrap(FCJVQC_fake_script)()
-local function XSBU_fake_script() -- sirius.ToggleBtn_3.LocalScript 
+coroutine.wrap(HOXFML_fake_script)()
+local function EHIHFD_fake_script() -- sirius.ToggleBtn_3.LocalScript 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_3)
 
 	local button = script.Parent -- ton bouton
@@ -2636,8 +2733,8 @@ local function XSBU_fake_script() -- sirius.ToggleBtn_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(XSBU_fake_script)()
-local function FZYRHI_fake_script() -- sirius.ToggleBtn_3.LocalScript 
+coroutine.wrap(EHIHFD_fake_script)()
+local function EXQPQW_fake_script() -- sirius.ToggleBtn_3.6 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_3)
 
 	local Players = game:GetService("Players")
@@ -2713,40 +2810,16 @@ local function FZYRHI_fake_script() -- sirius.ToggleBtn_3.LocalScript
 		end
 	end)
 	
-end
-coroutine.wrap(FZYRHI_fake_script)()
-local function YVTGHP_fake_script() -- sirius.BOOX1_3.LocalScript 
-	local script = Instance.new('LocalScript', sirius.BOOX1_3)
-
-	local box = script.Parent
-	
-	box:GetPropertyChangedSignal("Text"):Connect(function()
-		-- Supprime tout ce qui n'est PAS un chiffre
-		box.Text = box.Text:gsub("%D", "")
-	end)
-	
-end
-coroutine.wrap(YVTGHP_fake_script)()
-local function UWCJQU_fake_script() -- sirius.BOOX1_3.LocalScript 
-	local script = Instance.new('LocalScript', sirius.BOOX1_3)
-
-	local box = script.Parent
-	
-	box:GetPropertyChangedSignal("Text"):Connect(function()
-		-- Supprime tout ce qui n'est pas un chiffre
-		local text = box.Text:gsub("%D", "")
-	
-		-- Limite à 3 chiffres maximum (ex: 999)
-		if #text > 3 then
-			text = text:sub(1, 3)
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			enabled = false
+			if connection then connection:Disconnect() end -- Arrête le saut infini
 		end
-	
-		box.Text = text
 	end)
-	
 end
-coroutine.wrap(UWCJQU_fake_script)()
-local function OTQXRO_fake_script() -- sirius.ToggleBtn_4.LocalScript 
+coroutine.wrap(EXQPQW_fake_script)()
+local function FJURNYH_fake_script() -- sirius.ToggleBtn_4.LocalScript 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_4)
 
 	local button = script.Parent -- ton bouton
@@ -2770,8 +2843,8 @@ local function OTQXRO_fake_script() -- sirius.ToggleBtn_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(OTQXRO_fake_script)()
-local function RQOZMB_fake_script() -- sirius.ToggleBtn_4.LocalScript 
+coroutine.wrap(FJURNYH_fake_script)()
+local function ERHZCO_fake_script() -- sirius.ToggleBtn_4.7 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_4)
 
 	--// SERVICES
@@ -2889,9 +2962,75 @@ local function RQOZMB_fake_script() -- sirius.ToggleBtn_4.LocalScript
 		end
 	end)
 	
+	local stopSignal = script:FindFirstAncestorOfClass("ScreenGui"):WaitForChild("FORCE_STOP")
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			TeleportEnabled = false
+			TeleportRunning = false
+			local char = player.Character
+			if char then unfreezeCharacter(char) end -- Débloque le joueur avant de supprimer
+		end
+	end)
 end
-coroutine.wrap(RQOZMB_fake_script)()
-local function KMZIETA_fake_script() -- sirius.DM2.LocalScript 
+coroutine.wrap(ERHZCO_fake_script)()
+local function MCNOG_fake_script() -- sirius.Button_6.LocalScript 
+	local script = Instance.new('LocalScript', sirius.Button_6)
+
+	local TweenService = game:GetService("TweenService")
+	
+	local button = script.Parent
+	local frame1 = button.Parent -- DM1
+	local screenGui = frame1.Parent
+	local frame2 = screenGui:WaitForChild("DM2")
+	
+	-- Tailles normales
+	local normalSize1 = frame1.Size
+	local normalSize2 = frame2.Size
+	
+	-- Tailles réduites (90%)
+	local smallSize1 = UDim2.new(
+		normalSize1.X.Scale * 0.8,
+		normalSize1.X.Offset * 0.8,
+		normalSize1.Y.Scale * 0.8,
+		normalSize1.Y.Offset * 0.8
+	)
+	
+	local smallSize2 = UDim2.new(
+		normalSize2.X.Scale * 0.8,
+		normalSize2.X.Offset * 0.8,
+		normalSize2.Y.Scale * 0.8,
+		normalSize2.Y.Offset * 0.8
+	)
+	
+	local isSmall = false
+	
+	local tweenInfo = TweenInfo.new(
+		0.25,
+		Enum.EasingStyle.Quad,
+		Enum.EasingDirection.Out
+	)
+	
+	button.MouseButton1Click:Connect(function()
+		local goal1
+		local goal2
+	
+		if isSmall then
+			goal1 = normalSize1
+			goal2 = normalSize2
+		else
+			goal1 = smallSize1
+			goal2 = smallSize2
+		end
+	
+		TweenService:Create(frame1, tweenInfo, {Size = goal1}):Play()
+		TweenService:Create(frame2, tweenInfo, {Size = goal2}):Play()
+	
+		isSmall = not isSmall
+	end)
+	
+end
+coroutine.wrap(MCNOG_fake_script)()
+local function RYZQKK_fake_script() -- sirius.DM2.LocalScript 
 	local script = Instance.new('LocalScript', sirius.DM2)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -2953,22 +3092,29 @@ local function KMZIETA_fake_script() -- sirius.DM2.LocalScript
 	end)
 	
 end
-coroutine.wrap(KMZIETA_fake_script)()
-local function DTNRM_fake_script() -- sirius.Button_7.LocalScript 
+coroutine.wrap(RYZQKK_fake_script)()
+local function CVUEQKQ_fake_script() -- sirius.Button_7.LocalScript 
 	local script = Instance.new('LocalScript', sirius.Button_7)
 
+	-- Script à mettre dans ton bouton de suppression
 	local button = script.Parent
-	local gui = button:FindFirstAncestorOfClass("ScreenGui")
+	local screenGui = button:FindFirstAncestorOfClass("ScreenGui")
+	
+	-- On crée le signal "STOP"
+	local stopSignal = screenGui:FindFirstChild("FORCE_STOP") or Instance.new("BoolValue")
+	stopSignal.Name = "FORCE_STOP"
+	stopSignal.Parent = screenGui
+	stopSignal.Value = false
 	
 	button.MouseButton1Click:Connect(function()
-		if gui then
-			gui:Destroy()
-		end
-	end)
+		stopSignal.Value = true -- On envoie le signal à tous les scripts
 	
+		task.wait(0.5) -- On laisse 2 secondes pour que tout se mette en "OFF"
+		screenGui:Destroy() -- On efface tout
+	end)
 end
-coroutine.wrap(DTNRM_fake_script)()
-local function LRNNW_fake_script() -- sirius.Button_8.LocalScript 
+coroutine.wrap(CVUEQKQ_fake_script)()
+local function YWVU_fake_script() -- sirius.Button_8.LocalScript 
 	local script = Instance.new('LocalScript', sirius.Button_8)
 
 	local button = script.Parent
@@ -3000,8 +3146,8 @@ local function LRNNW_fake_script() -- sirius.Button_8.LocalScript
 	end)
 	
 end
-coroutine.wrap(LRNNW_fake_script)()
-local function YSKMBS_fake_script() -- sirius.TextBox.LocalScript 
+coroutine.wrap(YWVU_fake_script)()
+local function HBLA_fake_script() -- sirius.TextBox.LocalScript 
 	local script = Instance.new('LocalScript', sirius.TextBox)
 
 	local textBox = script.Parent
@@ -3033,8 +3179,8 @@ local function YSKMBS_fake_script() -- sirius.TextBox.LocalScript
 	end)--]]
 	
 end
-coroutine.wrap(YSKMBS_fake_script)()
-local function ETIX_fake_script() -- sirius.TextBox.LocalScript 
+coroutine.wrap(HBLA_fake_script)()
+local function HJJHR_fake_script() -- sirius.TextBox.LocalScript 
 	local script = Instance.new('LocalScript', sirius.TextBox)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -3085,8 +3231,8 @@ local function ETIX_fake_script() -- sirius.TextBox.LocalScript
 	end)
 	
 end
-coroutine.wrap(ETIX_fake_script)()
-local function KTCAAP_fake_script() -- sirius.Button_9.LocalScript 
+coroutine.wrap(HJJHR_fake_script)()
+local function FOTWP_fake_script() -- sirius.Button_9.LocalScript 
 	local script = Instance.new('LocalScript', sirius.Button_9)
 
 	local button = script.Parent
@@ -3104,8 +3250,8 @@ local function KTCAAP_fake_script() -- sirius.Button_9.LocalScript
 	end)
 	
 end
-coroutine.wrap(KTCAAP_fake_script)()
-local function NVRDA_fake_script() -- sirius.ToggleBtn_5.LocalScript 
+coroutine.wrap(FOTWP_fake_script)()
+local function GPNEW_fake_script() -- sirius.ToggleBtn_5.LocalScript 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_5)
 
 	local button = script.Parent -- ton bouton
@@ -3129,36 +3275,36 @@ local function NVRDA_fake_script() -- sirius.ToggleBtn_5.LocalScript
 	end)
 	
 end
-coroutine.wrap(NVRDA_fake_script)()
-local function ZLJJRT_fake_script() -- sirius.ToggleBtn_5.LocalScript 
+coroutine.wrap(GPNEW_fake_script)()
+local function GIQZXM_fake_script() -- sirius.ToggleBtn_5.LocalScript 
 	local script = Instance.new('LocalScript', sirius.ToggleBtn_5)
 
 	--// SERVICES
 	local Players = game:GetService("Players")
 	local VirtualUser = game:GetService("VirtualUser")
 	
+	--// VARIABLES
 	local player = Players.LocalPlayer
 	local button = script.Parent
+	local screenGui = button:FindFirstAncestorOfClass("ScreenGui")
 	
-	--// VARIABLES
 	local AFKEnabled = false
 	local AFKConnection = nil
 	
-	button.Text = ""
-	
-	--// ACTIVER AFK
+	--// FONCTION ACTIVER AFK (Empêche l'expulsion après 20 min)
 	local function startAFK()
 		if AFKConnection then return end
 	
 		AFKConnection = player.Idled:Connect(function()
-			-- Simule une activité joueur (sans bouger)
+			-- Cette partie simule un clic droit de la souris sur la caméra
+			-- Cela fait croire à Roblox que tu es toujours là sans faire bouger ton perso
 			VirtualUser:Button2Down(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
 			task.wait(1)
 			VirtualUser:Button2Up(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
 		end)
 	end
 	
-	--// DÉSACTIVER AFK
+	--// FONCTION DÉSACTIVER AFK
 	local function stopAFK()
 		if AFKConnection then
 			AFKConnection:Disconnect()
@@ -3166,12 +3312,12 @@ local function ZLJJRT_fake_script() -- sirius.ToggleBtn_5.LocalScript
 		end
 	end
 	
-	--// BOUTON ON / OFF
+	--// BOUTON CLIC (ON / OFF)
 	button.MouseButton1Click:Connect(function()
 		AFKEnabled = not AFKEnabled
 	
 		if AFKEnabled then
-			button.Text = ""
+			button.Text = "" -- Tu peux changer le texte si tu veux
 			startAFK()
 		else
 			button.Text = ""
@@ -3179,9 +3325,20 @@ local function ZLJJRT_fake_script() -- sirius.ToggleBtn_5.LocalScript
 		end
 	end)
 	
+	--// 🛑 SÉCURITÉ : ARRÊT GLOBAL (Bouton Supprimer)
+	-- Ce morceau de code attend le signal "FORCE_STOP" du bouton principal
+	local stopSignal = screenGui:WaitForChild("FORCE_STOP")
+	
+	stopSignal.Changed:Connect(function()
+		if stopSignal.Value == true then
+			AFKEnabled = false
+			stopAFK() -- Coupe proprement la connexion pour éviter les bugs
+			print("Anti-AFK : Arrêt forcé effectué.")
+		end
+	end)
 end
-coroutine.wrap(ZLJJRT_fake_script)()
-local function JICAFY_fake_script() -- sirius.Button_10.LocalScript 
+coroutine.wrap(GIQZXM_fake_script)()
+local function BHMTS_fake_script() -- sirius.Button_10.LocalScript 
 	local script = Instance.new('LocalScript', sirius.Button_10)
 
 	local TweenService = game:GetService("TweenService")
@@ -3237,4 +3394,63 @@ local function JICAFY_fake_script() -- sirius.Button_10.LocalScript
 	end)
 	
 end
-coroutine.wrap(JICAFY_fake_script)()
+coroutine.wrap(BHMTS_fake_script)()
+local function ZFLCGQC_fake_script() -- sirius.Text_3.Traduction 
+	local script = Instance.new('LocalScript', sirius.Text_3)
+
+	local textLabel = script.Parent 
+	local LocalizationService = game:GetService("LocalizationService") -- Service pour la localisation
+	
+	-- Détection de la langue du joueur (on prend les 2 premières lettres)
+	-- Ex: "fr-fr" devient "fr"
+	local langue = LocalizationService.RobloxLocaleId:lower() 
+	
+	-- Ton dictionnaire avec TES traductions exactes
+	local dictionnaireMKN = {
+		["fr"] = "Si vous vous trouvez dans cette situation, contactez simplement notre service, soit parce que le jeu est incorrect et que vous êtes sur le mauvais jeu, soit parce qu’il n’est plus présent dans notre répertoire.",
+	
+		["en"] = "If you find yourself in this situation, simply either contact our service or simply because the game is incorrect and you are on the wrong game or otherwise, it is no longer in our Directory box.",
+	
+		["es"] = "Si te encuentras en esta situación, simplemente contacta con nuestro servicio, ya sea porque el juego es incorrecto y estás en el juego equivocado, o porque ya no se encuentra en nuestro directorio.",
+	
+		["ja"] = "「このような状況にある場合は、ゲームが間違っていて別のゲームにいるか、または当社のディレクトリに既に存在しない可能性があるため、当社のサービスにご連絡ください。」",
+	
+		["pt"] = "Se você se encontrar nessa situação, basta entrar em contato com o nosso serviço, seja porque o jogo está incorreto e você está no jogo errado, ou porque ele não está mais presente em nosso diretório."
+	}
+	
+	local function appliquerTraduction() -- Fonction pour appliquer la traduction
+		-- On vérifie chaque langue spécifique
+		if langue:sub(1,2) == "fr" then-- Français
+			textLabel.Text = dictionnaireMKN["fr"] -- Français
+		elseif langue:sub(1,2) == "en" then-- Anglais
+			textLabel.Text = dictionnaireMKN["en"] -- Anglais
+		elseif langue:sub(1,2) == "es" then-- Espagnol
+			textLabel.Text = dictionnaireMKN["es"] -- Espagnol
+		elseif langue:sub(1,2) == "ja" then-- Japonais
+			textLabel.Text = dictionnaireMKN["ja"] -- Japonais
+		elseif langue:sub(1,2) == "pt" then-- Portugais
+			textLabel.Text = dictionnaireMKN["pt"] -- Portugais
+		else
+			-- Si la langue est inconnue, on met l'Anglais par défaut
+			textLabel.Text = dictionnaireMKN["en"] -- Anglais par défaut
+		end
+	end
+	
+	-- Exécution au démarrage
+	appliquerTraduction()
+end
+coroutine.wrap(ZFLCGQC_fake_script)()
+local function FIFDWK_fake_script() -- sirius.Button_11.LocalScript 
+	local script = Instance.new('LocalScript', sirius.Button_11)
+
+	local button = script.Parent
+	local gui = button:FindFirstAncestorOfClass("ScreenGui")
+	
+	button.MouseButton1Click:Connect(function()
+		if gui then
+			gui:Destroy()
+		end
+	end)
+	
+end
+coroutine.wrap(FIFDWK_fake_script)()
